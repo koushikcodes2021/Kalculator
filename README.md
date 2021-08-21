@@ -3,8 +3,7 @@
 My first Flutter project.
 It is a calculator that enables the user to do basic calculations.
 # The APK File:
-shorturl.at/ryAEP
-
+https://shorturl.at/ryAEP
 
 ## Getting Started
 
